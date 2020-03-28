@@ -4,6 +4,8 @@
 
 <h4 align="center">RARBG torrents for Stremio are back!</h4>
 
+** THIS REPOSITORY HAS BEEN MOVED TO [sleeyax/stremio-addons](https://git.io/JvQGc) **
+
 ## FAQ
 **what happened to the RARBG TorrentAPI addon?**<br>
 The developer abandoned the project and now the addon is gone from the addons collection. This addon serves as a replacement, and it's completely rewritten from scratch.
